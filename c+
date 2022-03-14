@@ -1,0 +1,14 @@
+int main()
+{
+int tuoi;
+int ten;
+int ns;
+
+printf("hello\n");
+sacnf("%d", &ten);
+
+printf("nam sinh\n");
+scanf("%d", &ns);
+
+tuoi = 2022 - ns;
+printf("
